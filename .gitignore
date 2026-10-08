@@ -1,0 +1,19 @@
+# Ympäristömuuttujat ja salaiset avaimet
+.env
+.env.local
+
+# Pythonin virtuaaliympäristöt
+.venv/
+venv/
+env/
+
+# Pythonin välimuistitiedostot
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editorien ja käyttöjärjestelmän omat asetustiedostot
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
